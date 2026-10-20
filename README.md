@@ -10,7 +10,7 @@
 <h2 align="center">⚡  𝕬𝖓𝖎𝖒𝖊 𝕷𝖔𝖛𝖊𝖗 ⚡</h2>
 
 <p align="center">
-  <i>dreaming, building, shipping...</i>
+  <i>having fun ,building,more building...</i>
 </p>
 
 ---
