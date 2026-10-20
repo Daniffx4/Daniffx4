@@ -1,7 +1,7 @@
 # 💜 Daniffx4
 
 <p align="center">
-  <img src="https://github.com/Daniffx4/Daniiffx4/raw/main/jujutsu-kaisen-jjk-season-2.gif" width="700" alt="Anime GIF">
+  <img src="./jujutsu-kaisen-jjk-season-2.gif" width="700" alt="Anime GIF">
 </p>
 
 <h2 align="center">⚡ 𝕬𝖓𝖎𝖒𝖊 𝕷𝖔𝖛𝖊𝖗 ⚡</h2>
