@@ -1,4 +1,4 @@
-# 💜 Daniffx4
+# 💜 𝔇𝔞𝔫𝔦𝔣𝔣𝔵𝟺
 
 <p align="center">
   <img src="./jujutsu-kaisen-jjk-season-2.gif" width="700" alt="Anime GIF">
